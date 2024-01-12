@@ -1,0 +1,114 @@
+@media (max-width: 992px) {
+    .title-pizza {
+        font-size: 20px!important;
+    }
+    .item-price {
+        font-size: 20px!important;
+    }
+}
+
+@media (max-width: 768px) {
+    .title-pizza {
+        font-size: 15px!important;
+    }
+    .item-price {
+        font-size: 16px!important;
+    }
+    .btn-group {
+        margin-left: 0!important;
+    }
+    .quantity {
+        margin-left: 0!important;
+    }
+    .form-close {
+        width: 90px!important;
+        height: auto!important;
+    }
+    .footer-text {
+        font-size: 14px!important;
+    }
+    .footer-nav {
+        font-size: 14px!important;
+    }
+    .general-sum {
+        font-size: 20px!important;
+    }
+    .btn-quantity {
+        padding: 7px 12px!important;
+        font-size: 12px!important;
+    }
+    .btn-quantity-one-pizza {
+        font-size: 12px!important;
+    }
+    .btn-recyclebin {
+        font-size: 14px!important;
+    }
+    .btn-quantity-one-pizza {
+        font-size: 12px!important;
+    }
+    .sub-pizzas {
+        font-size: 14px!important;
+    }
+}
+
+@media (max-width: 576px) {
+    .title-pizza {
+        font-size: 18px!important;
+    }
+    .info {
+        position: relative;
+    }
+    .item-price {
+        font-size: 17px!important;
+        margin-bottom: 10px;
+    }
+    .general-sum {
+        font-size: 17px!important;
+    }
+    .main-group {
+        margin-bottom: 10px;
+    }
+    .btn-quantity {
+        padding: 6px 12px!important;
+    }
+    .btn-quantity-one-pizza {
+        padding: 5px 10px!important;
+    }
+    .one-pizza-price {
+        font-size: 16px!important;
+    }
+    .toast-body {
+        font-size: 12px!important;
+    }
+    .popup {
+        width: 75%!important;
+    }
+    .warning {
+        width: 75%!important;
+    }
+    .btn-size {
+        font-size: 12px!important;
+    }
+    .btn-recyclebin {
+        font-size: 12px!important;
+    }
+    .btn-recyclebin-one-pizza {
+        font-size: 11px!important;
+    }
+    .sub-pizzas {
+        display: none;
+    }
+    .btn-delete {
+        width: 50px;
+        position: absolute;
+        top: 5%;
+        right: 0%;
+        z-index: 10;
+    }
+    .form-close {
+        width: 20px!important;
+    }
+    .btn-logout {
+        font-size: 12px!important;
+    }
+}
